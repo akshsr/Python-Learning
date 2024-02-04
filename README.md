@@ -14,3 +14,10 @@ In second project of python [Number Guessing](https://github.com/akshsr/Python-L
 * while loop
 * continue
 * elif statement 
+
+In third project of python [Rock paper scissors](https://github.com/akshsr/Python-Learning/blob/main/03RockPaperScissors.py)
+* crate list data structure
+* logical use of if elif else statement as well as loop
+
+In fourth project of python [Choose your own](https://github.com/akshsr/Python-Learning/blob/main/04ChooseYourOwn.py)
+* nested loop
