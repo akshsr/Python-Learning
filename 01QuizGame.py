@@ -38,4 +38,4 @@ else:      # else statement is where 'if not then'
     print('incorrect!')
 
 print('you got ' + str(score) + ' questions correct!') # we concatinated here in b/w two str and changed int to str as in output
-print('you got ' + str((score/4)*100) + '%.') #performed addition operation here before changing into str
+print('you got ' + str((score/4)*100) + '%.') #performed mathematical operation here before changing into str
