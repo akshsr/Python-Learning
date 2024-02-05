@@ -21,3 +21,11 @@ In third project of python [Rock paper scissors](https://github.com/akshsr/Pytho
 
 In fourth project of python [Choose your own](https://github.com/akshsr/Python-Learning/blob/main/04ChooseYourOwn.py)
 * nested loop
+
+In fifth project of python [White list](https://github.com/akshsr/Python-Learning/blob/main/05WhiteList.py)
+* List operations
+* append in list
+
+In sixth project of python [QR code](https://github.com/akshsr/Python-Learning/blob/main/06QRcode.py)
+* taking the user input
+* with help of library make qr code of that given input url  
